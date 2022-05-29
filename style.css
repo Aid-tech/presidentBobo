@@ -1,0 +1,14 @@
+body{
+    background: #206492 !important;
+}
+
+figure{
+    margin-top: 25vh !important;
+}
+
+#pied{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #3c598d;
+}
